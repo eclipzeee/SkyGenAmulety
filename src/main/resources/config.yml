@@ -1,0 +1,30 @@
+########################################################################
+##                                                                    ##
+##       test - nazwa amuletu                                         ##
+##        1/2/3 - poziom amuletu                                      ##
+##         name - nazwa amuletu wyswietlana w eq                      ##
+##         lore - opis amuletu wyswietlany w eq                       ##
+##         effect-level - poziom efektu                               ##
+##         effect - efekt nadawany podczas trzymania amuletu          ##
+##                                                                    ##
+########################################################################
+amulets:
+  test:
+    1:
+      material: "DIAMOND"
+      name: "Amulet Siły I"
+      lore: "test"
+      effect-level: 1
+      effect: "INCREASE_DAMAGE"
+    2:
+      material: "DIAMOND"
+      name: "Amulet Siły II"
+      lore: "test"
+      effect-level: 2
+      effect: "INCREASE_DAMAGE"
+    3:
+      material: "DIAMOND"
+      name: "Amulet Siły III"
+      lore: "test"
+      effect-level: 3
+      effect: "INCREASE_DAMAGE"
